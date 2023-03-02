@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![](/preview.png)
+![](/preview.jpg)
 
 ### Links
 
