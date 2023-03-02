@@ -14,7 +14,7 @@
 
 ### Links
 
-- Live Site URL: [Live site](https://tip-calculator-app-react.web.app/)
+- Live Site URL: [Live site](https://github-user-search-app-react.vercel.app/)
 - Solution URL: [Solution URL](https://github.com/bekaChaduneli/github-user-search-app-REACT)
 
 ### Built with
